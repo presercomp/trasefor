@@ -1,6 +1,6 @@
-CREATE DATABASE traseforDB
+CREATE DATABASE traseforDB;
 
-USE traseforDB
+USE traseforDB;
 
 CREATE TABLE usuarios(
 idUsuario INT not null primary key auto_increment,
